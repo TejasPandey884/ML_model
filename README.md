@@ -1,2 +1,1 @@
-# ML_model
-this is my first github repo
+This is my first python repo
